@@ -7,7 +7,7 @@ An example use case for the [Batch Stealer](https://github.com/Takaovi/BatchStea
 
 # [VirusTotal](https://www.virustotal.com/gui/file/8eb7e30b5347bd5541b2387f0bfaeecac1fe96b43778d9926cb426846318f85a/detection) 0/69 - 2.4.2021
 
-* You can add more functionality to the program, but it gets at least couple antiviruses to get false positives. (Not because of BatchStealer, because of C# and how antiviruses treat it)
+* You can add more functionality to the program, but it makes at least couple antiviruses to get false positives. (Not because of BatchStealer, because of C# and how antiviruses treat it)
 
 * It doesn't also matter how much of [Batch Stealer's](https://github.com/Takaovi/BatchStealer) code you use, as it's fully FUD itself as of now 2.4.2021. 
   * I just used a portion of it as a demostration and didn't obfuscate it. Obfuscation of the batch may or may not get you one or two more detections, but there's a great chance you get none from it. Obfuscation is very important as kids may want to spam your webhook if they find it.
