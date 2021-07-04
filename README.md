@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/GkoQRt7.png">
-</p>
-
 # BatchStealer Example Program
 An example use case for the [Batch Stealer](https://github.com/Takaovi/BatchStealer). 
 
